@@ -1,0 +1,97 @@
+
+#home{ 
+    background: radial-gradient(circle, rgba(255,255,255,1) 0%, rgba(213,213,213,1) 100%);;
+ }
+
+
+
+.container{
+    margin-top: 110px;
+    margin-bottom: 10px;
+}
+
+#header {
+    background-color: #005594!important;
+   
+}
+
+#atividade{
+    background: rgb(255,255,255);
+}
+
+#uc{
+    background: rgb(255,255,255);
+    background: radial-gradient(circle, rgba(255,255,255,1) 0%, rgba(213,213,213,1) 100%);
+}
+
+.navbar {
+    background-color: #005594!important;
+    /* position: fixed; */
+}
+
+#foto {
+    max-width: 100%;
+    max-height: 100%;
+    border-radius: .50rem;
+    box-shadow: 0 .5rem 1rem rgba(black, .15);
+
+
+
+}
+
+.nav-link{ 
+    color:white;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-size: large;  
+}
+
+.nav-link:hover{
+    color: deepskyblue !important; 
+}
+
+
+footer{ 
+    background-color: #161619;
+    color: lightgray;
+    padding: 25px;
+    font-family: Verdana, Geneva, Tahoma, sans-serif; 
+    font-size: medium;
+    text-align: center;
+    bottom: 0;
+    /* position: fixed; */
+    width: 100%;
+}
+
+
+h2 {
+    color:#005594;
+    text-align: center;
+    margin-bottom: 30px;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+
+}
+
+p{ font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-size: medium;
+    margin-top: 20px;
+    margin-bottom: 20px;
+
+
+}
+h5{
+    color:#005594;
+    text-align: center;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+
+
+#curso{ 
+    margin-top: 30px;
+    text-align: justify; 
+    font-size: larger;
+}
+
+#alinhar{ 
+    max-width: 100%;
+    height: auto;
+}
